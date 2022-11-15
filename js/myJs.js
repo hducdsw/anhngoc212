@@ -138,7 +138,7 @@ const textConfig = {
             text: textConfig.text11,
             confirmButtonColor: "#83d0c9",
             onClose: () => {
-              window.location = "http://127.0.0.1:5501/index.html";
+              window.location = "http://hducdsw.github.io/hoanhoan/";
             },
           });
         }
